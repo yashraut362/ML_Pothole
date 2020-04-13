@@ -1,0 +1,1 @@
+python labelImg.py ../../dataset/pothole/pothole/potholes/ classes.txt
