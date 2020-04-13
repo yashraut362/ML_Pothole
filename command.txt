@@ -1,1 +1,1 @@
-python labelImg.py ../../dataset/pothole/pothole/potholes/ classes.txt
+python labelImg.py ../../dataset/pothole/My\ Dataset/train/Pothole/ classes.txt
