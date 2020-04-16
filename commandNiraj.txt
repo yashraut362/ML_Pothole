@@ -1,16 +1,3 @@
 python labelImg.py ../../dataset/pothole/My\ Dataset/train/Pothole/Niraj/  classes.txt
 
 
-isme aur chnages kiye he 
-folder me unlabelled labeled kiya he 
-
-step 1 . jab bhi start krega usse pahile 
-git pull origin master
-
-step 2 . tere folder ka labeling complete kr pure hone de
-uske baad pure folder ke saare images and generated files labelled folder cut paste maar
-
-
-step 3. unlabelled se images utha and tere folder me daal .
-
-do git push origin master  before performing step 2 and step 3
